@@ -7,6 +7,7 @@ The main metrics used for training and testing are Mean Squared Error (MSE for l
 ## Network Architecture
 
 ![Proposed Network.](./.images/AttentionCNN.png)
+![Keras Network.](./.images/model_visualization.png)
 
 ## Decomposing the Architecture
 
